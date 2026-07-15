@@ -7,11 +7,11 @@
 
   var DEFAULT_CONFIG = {
     enabled: true,
-    latitude: 37.3349,
-    longitude: -122.00902,
-    horizontalAccuracy: 39,
-    verticalAccuracy: 1000,
-    altitude: 530,
+    latitude: 34.1201,
+    longitude: -118.43553,
+    horizontalAccuracy: 6,
+    verticalAccuracy: 20,
+    altitude: 248,
     unknownValue4: 3,
     motionActivityType: 63,
     motionActivityConfidence: 467,
